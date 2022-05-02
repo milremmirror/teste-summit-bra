@@ -1,0 +1,38 @@
+<list>
+    <Mark>
+        <url>https://segundo.com</url>
+        <description>descSeg.................................</description>
+    </Mark>
+    <Mark>
+        <url>https://terceiro.com</url>
+        <description>descTerc................................</description>
+    </Mark>
+    <Mark>
+        <url>http://www.yahoo.com</url>
+        <description>site de buscas..........................</description>
+    </Mark>
+    <Mark>
+        <url>http://www.google.com</url>
+        <description>site de busca...........................</description>
+    </Mark>
+    <Mark>
+        <url>http://teste.com</url>
+        <description>Descrição com espaço....................</description>
+    </Mark>
+    <Mark>
+        <url>http://list.arquivo.com</url>
+        <description>lista adiciona pelo arquivo.lst.........</description>
+    </Mark>
+    <Mark>
+        <url>http://www.obrigado.eva.com</url>
+        <description>site graditão ..........................</description>
+    </Mark>
+    <Mark>
+        <url>http://list.arquivo.com</url>
+        <description>teste de cobertura......................</description>
+    </Mark>
+    <Mark>
+        <url>http://www.instagram.com</url>
+        <description>social media............................</description>
+    </Mark>
+</list>
